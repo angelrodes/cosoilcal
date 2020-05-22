@@ -5,7 +5,7 @@ Cosmogenic soil production rate calculator for samples in a variable-density pro
 Angel Rodes, SUERC, 2019
 
 Citation:
-Rodés, Á.; Evans, D.L. (2020) Cosmogenic soil production rate calculator,MethodsX, Volume 7, Article number 100753.
+Rodés, Á.; Evans, D.L. (2020) Cosmogenic soil production rate calculator, MethodsX, Volume 7, Article number 100753.
 ISSN 2215-0161,
 https://doi.org/10.1016/j.mex.2019.11.026.
 
